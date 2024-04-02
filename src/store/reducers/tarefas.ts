@@ -27,7 +27,7 @@ const initialState: TarefasState = {
       descricao: 'Estudar JS revendo exercicio',
       prioridade: enums.Prioridade.IMPORTANTE,
       status: enums.Status.PENDENTE,
-      titulo: 'Estudar Bootstrap'
+      titulo: 'Estudar JS'
     }
   ]
 }
